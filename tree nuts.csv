@@ -1,0 +1,1264 @@
+class index,filepaths,labels,data set
+0,train/almonds/001.jpg,almonds,train
+0,train/almonds/002.jpg,almonds,train
+0,train/almonds/003.jpg,almonds,train
+0,train/almonds/004.jpg,almonds,train
+0,train/almonds/005.jpg,almonds,train
+0,train/almonds/006.jpg,almonds,train
+0,train/almonds/007.jpg,almonds,train
+0,train/almonds/008.jpg,almonds,train
+0,train/almonds/009.jpg,almonds,train
+0,train/almonds/010.jpg,almonds,train
+0,train/almonds/011.jpg,almonds,train
+0,train/almonds/012.jpg,almonds,train
+0,train/almonds/013.jpg,almonds,train
+0,train/almonds/014.jpg,almonds,train
+0,train/almonds/015.jpg,almonds,train
+0,train/almonds/016.jpg,almonds,train
+0,train/almonds/017.jpg,almonds,train
+0,train/almonds/018.jpg,almonds,train
+0,train/almonds/019.jpg,almonds,train
+0,train/almonds/020.jpg,almonds,train
+0,train/almonds/021.jpg,almonds,train
+0,train/almonds/022.jpg,almonds,train
+0,train/almonds/023.jpg,almonds,train
+0,train/almonds/024.jpg,almonds,train
+0,train/almonds/025.jpg,almonds,train
+0,train/almonds/026.jpg,almonds,train
+0,train/almonds/027.jpg,almonds,train
+0,train/almonds/028.jpg,almonds,train
+0,train/almonds/029.jpg,almonds,train
+0,train/almonds/030.jpg,almonds,train
+0,train/almonds/031.jpg,almonds,train
+0,train/almonds/032.jpg,almonds,train
+0,train/almonds/033.jpg,almonds,train
+0,train/almonds/034.jpg,almonds,train
+0,train/almonds/035.jpg,almonds,train
+0,train/almonds/036.jpg,almonds,train
+0,train/almonds/037.jpg,almonds,train
+0,train/almonds/038.jpg,almonds,train
+0,train/almonds/039.jpg,almonds,train
+0,train/almonds/040.jpg,almonds,train
+0,train/almonds/041.jpg,almonds,train
+0,train/almonds/042.jpg,almonds,train
+0,train/almonds/043.jpg,almonds,train
+0,train/almonds/044.jpg,almonds,train
+0,train/almonds/045.jpg,almonds,train
+0,train/almonds/046.jpg,almonds,train
+0,train/almonds/047.jpg,almonds,train
+0,train/almonds/048.jpg,almonds,train
+0,train/almonds/049.jpg,almonds,train
+0,train/almonds/050.jpg,almonds,train
+0,train/almonds/051.jpg,almonds,train
+0,train/almonds/052.jpg,almonds,train
+0,train/almonds/053.jpg,almonds,train
+0,train/almonds/054.jpg,almonds,train
+0,train/almonds/055.jpg,almonds,train
+0,train/almonds/056.jpg,almonds,train
+0,train/almonds/057.jpg,almonds,train
+0,train/almonds/058.jpg,almonds,train
+0,train/almonds/059.jpg,almonds,train
+0,train/almonds/060.jpg,almonds,train
+0,train/almonds/061.jpg,almonds,train
+0,train/almonds/062.jpg,almonds,train
+0,train/almonds/063.jpg,almonds,train
+0,train/almonds/064.jpg,almonds,train
+0,train/almonds/065.jpg,almonds,train
+0,train/almonds/066.jpg,almonds,train
+0,train/almonds/067.jpg,almonds,train
+0,train/almonds/068.jpg,almonds,train
+0,train/almonds/069.jpg,almonds,train
+0,train/almonds/070.jpg,almonds,train
+0,train/almonds/071.jpg,almonds,train
+0,train/almonds/072.jpg,almonds,train
+0,train/almonds/073.jpg,almonds,train
+0,train/almonds/074.jpg,almonds,train
+0,train/almonds/075.jpg,almonds,train
+0,train/almonds/076.jpg,almonds,train
+0,train/almonds/077.jpg,almonds,train
+0,train/almonds/078.jpg,almonds,train
+0,train/almonds/079.jpg,almonds,train
+0,train/almonds/080.jpg,almonds,train
+0,train/almonds/081.jpg,almonds,train
+0,train/almonds/082.jpg,almonds,train
+0,train/almonds/083.jpg,almonds,train
+0,train/almonds/084.jpg,almonds,train
+0,train/almonds/085.jpg,almonds,train
+0,train/almonds/086.jpg,almonds,train
+0,train/almonds/087.jpg,almonds,train
+0,train/almonds/088.jpg,almonds,train
+0,train/almonds/089.jpg,almonds,train
+0,train/almonds/090.jpg,almonds,train
+0,train/almonds/091.jpg,almonds,train
+0,train/almonds/092.jpg,almonds,train
+0,train/almonds/093.jpg,almonds,train
+0,train/almonds/094.jpg,almonds,train
+0,train/almonds/095.jpg,almonds,train
+0,train/almonds/096.jpg,almonds,train
+0,train/almonds/097.jpg,almonds,train
+0,train/almonds/098.jpg,almonds,train
+0,train/almonds/099.jpg,almonds,train
+0,train/almonds/100.jpg,almonds,train
+0,train/almonds/101.jpg,almonds,train
+0,train/almonds/102.jpg,almonds,train
+0,train/almonds/103.jpg,almonds,train
+0,train/almonds/104.jpg,almonds,train
+0,train/almonds/105.jpg,almonds,train
+0,train/almonds/106.jpg,almonds,train
+0,train/almonds/107.jpg,almonds,train
+0,train/almonds/108.jpg,almonds,train
+0,train/almonds/109.jpg,almonds,train
+1,train/brazil nuts/001.jpg,brazil nuts,train
+1,train/brazil nuts/002.jpg,brazil nuts,train
+1,train/brazil nuts/003.jpg,brazil nuts,train
+1,train/brazil nuts/004.jpg,brazil nuts,train
+1,train/brazil nuts/005.jpg,brazil nuts,train
+1,train/brazil nuts/006.jpg,brazil nuts,train
+1,train/brazil nuts/007.jpg,brazil nuts,train
+1,train/brazil nuts/008.jpg,brazil nuts,train
+1,train/brazil nuts/009.jpg,brazil nuts,train
+1,train/brazil nuts/010.jpg,brazil nuts,train
+1,train/brazil nuts/011.jpg,brazil nuts,train
+1,train/brazil nuts/012.jpg,brazil nuts,train
+1,train/brazil nuts/013.jpg,brazil nuts,train
+1,train/brazil nuts/014.jpg,brazil nuts,train
+1,train/brazil nuts/015.jpg,brazil nuts,train
+1,train/brazil nuts/016.jpg,brazil nuts,train
+1,train/brazil nuts/017.jpg,brazil nuts,train
+1,train/brazil nuts/018.jpg,brazil nuts,train
+1,train/brazil nuts/019.jpg,brazil nuts,train
+1,train/brazil nuts/020.jpg,brazil nuts,train
+1,train/brazil nuts/021.jpg,brazil nuts,train
+1,train/brazil nuts/022.jpg,brazil nuts,train
+1,train/brazil nuts/023.jpg,brazil nuts,train
+1,train/brazil nuts/024.jpg,brazil nuts,train
+1,train/brazil nuts/025.jpg,brazil nuts,train
+1,train/brazil nuts/026.jpg,brazil nuts,train
+1,train/brazil nuts/027.jpg,brazil nuts,train
+1,train/brazil nuts/028.jpg,brazil nuts,train
+1,train/brazil nuts/029.jpg,brazil nuts,train
+1,train/brazil nuts/030.jpg,brazil nuts,train
+1,train/brazil nuts/031.jpg,brazil nuts,train
+1,train/brazil nuts/032.jpg,brazil nuts,train
+1,train/brazil nuts/033.jpg,brazil nuts,train
+1,train/brazil nuts/034.jpg,brazil nuts,train
+1,train/brazil nuts/035.jpg,brazil nuts,train
+1,train/brazil nuts/036.jpg,brazil nuts,train
+1,train/brazil nuts/037.jpg,brazil nuts,train
+1,train/brazil nuts/038.jpg,brazil nuts,train
+1,train/brazil nuts/039.jpg,brazil nuts,train
+1,train/brazil nuts/040.jpg,brazil nuts,train
+1,train/brazil nuts/041.jpg,brazil nuts,train
+1,train/brazil nuts/042.jpg,brazil nuts,train
+1,train/brazil nuts/043.jpg,brazil nuts,train
+1,train/brazil nuts/044.jpg,brazil nuts,train
+1,train/brazil nuts/045.jpg,brazil nuts,train
+1,train/brazil nuts/046.jpg,brazil nuts,train
+1,train/brazil nuts/047.jpg,brazil nuts,train
+1,train/brazil nuts/048.jpg,brazil nuts,train
+1,train/brazil nuts/049.jpg,brazil nuts,train
+1,train/brazil nuts/050.jpg,brazil nuts,train
+1,train/brazil nuts/051.jpg,brazil nuts,train
+1,train/brazil nuts/052.jpg,brazil nuts,train
+1,train/brazil nuts/053.jpg,brazil nuts,train
+1,train/brazil nuts/054.jpg,brazil nuts,train
+1,train/brazil nuts/055.jpg,brazil nuts,train
+1,train/brazil nuts/056.jpg,brazil nuts,train
+1,train/brazil nuts/057.jpg,brazil nuts,train
+1,train/brazil nuts/058.jpg,brazil nuts,train
+1,train/brazil nuts/059.jpg,brazil nuts,train
+1,train/brazil nuts/060.jpg,brazil nuts,train
+1,train/brazil nuts/061.jpg,brazil nuts,train
+1,train/brazil nuts/062.jpg,brazil nuts,train
+1,train/brazil nuts/063.jpg,brazil nuts,train
+1,train/brazil nuts/064.jpg,brazil nuts,train
+1,train/brazil nuts/065.jpg,brazil nuts,train
+1,train/brazil nuts/066.jpg,brazil nuts,train
+1,train/brazil nuts/067.jpg,brazil nuts,train
+1,train/brazil nuts/068.jpg,brazil nuts,train
+1,train/brazil nuts/069.jpg,brazil nuts,train
+1,train/brazil nuts/070.jpg,brazil nuts,train
+1,train/brazil nuts/071.jpg,brazil nuts,train
+1,train/brazil nuts/072.jpg,brazil nuts,train
+1,train/brazil nuts/073.jpg,brazil nuts,train
+1,train/brazil nuts/074.jpg,brazil nuts,train
+1,train/brazil nuts/075.jpg,brazil nuts,train
+1,train/brazil nuts/076.jpg,brazil nuts,train
+1,train/brazil nuts/077.jpg,brazil nuts,train
+1,train/brazil nuts/078.jpg,brazil nuts,train
+1,train/brazil nuts/079.jpg,brazil nuts,train
+1,train/brazil nuts/080.jpg,brazil nuts,train
+1,train/brazil nuts/081.jpg,brazil nuts,train
+1,train/brazil nuts/082.jpg,brazil nuts,train
+1,train/brazil nuts/083.jpg,brazil nuts,train
+1,train/brazil nuts/084.jpg,brazil nuts,train
+1,train/brazil nuts/085.jpg,brazil nuts,train
+1,train/brazil nuts/086.jpg,brazil nuts,train
+1,train/brazil nuts/087.jpg,brazil nuts,train
+1,train/brazil nuts/088.jpg,brazil nuts,train
+1,train/brazil nuts/089.jpg,brazil nuts,train
+1,train/brazil nuts/090.jpg,brazil nuts,train
+1,train/brazil nuts/091.jpg,brazil nuts,train
+1,train/brazil nuts/092.jpg,brazil nuts,train
+1,train/brazil nuts/093.jpg,brazil nuts,train
+1,train/brazil nuts/094.jpg,brazil nuts,train
+1,train/brazil nuts/095.jpg,brazil nuts,train
+1,train/brazil nuts/096.jpg,brazil nuts,train
+1,train/brazil nuts/097.jpg,brazil nuts,train
+1,train/brazil nuts/098.jpg,brazil nuts,train
+1,train/brazil nuts/099.jpg,brazil nuts,train
+1,train/brazil nuts/100.jpg,brazil nuts,train
+1,train/brazil nuts/101.jpg,brazil nuts,train
+1,train/brazil nuts/102.jpg,brazil nuts,train
+1,train/brazil nuts/103.jpg,brazil nuts,train
+1,train/brazil nuts/104.jpg,brazil nuts,train
+1,train/brazil nuts/105.jpg,brazil nuts,train
+1,train/brazil nuts/106.jpg,brazil nuts,train
+1,train/brazil nuts/107.jpg,brazil nuts,train
+1,train/brazil nuts/108.jpg,brazil nuts,train
+1,train/brazil nuts/109.jpg,brazil nuts,train
+1,train/brazil nuts/110.jpg,brazil nuts,train
+1,train/brazil nuts/111.jpg,brazil nuts,train
+1,train/brazil nuts/112.jpg,brazil nuts,train
+1,train/brazil nuts/113.jpg,brazil nuts,train
+1,train/brazil nuts/114.jpg,brazil nuts,train
+1,train/brazil nuts/115.jpg,brazil nuts,train
+1,train/brazil nuts/116.jpg,brazil nuts,train
+1,train/brazil nuts/117.jpg,brazil nuts,train
+1,train/brazil nuts/118.jpg,brazil nuts,train
+1,train/brazil nuts/119.jpg,brazil nuts,train
+1,train/brazil nuts/120.jpg,brazil nuts,train
+1,train/brazil nuts/121.jpg,brazil nuts,train
+1,train/brazil nuts/122.jpg,brazil nuts,train
+1,train/brazil nuts/123.jpg,brazil nuts,train
+1,train/brazil nuts/124.jpg,brazil nuts,train
+1,train/brazil nuts/125.jpg,brazil nuts,train
+1,train/brazil nuts/126.jpg,brazil nuts,train
+1,train/brazil nuts/127.jpg,brazil nuts,train
+1,train/brazil nuts/128.jpg,brazil nuts,train
+1,train/brazil nuts/129.jpg,brazil nuts,train
+1,train/brazil nuts/130.jpg,brazil nuts,train
+1,train/brazil nuts/131.jpg,brazil nuts,train
+1,train/brazil nuts/132.jpg,brazil nuts,train
+1,train/brazil nuts/133.jpg,brazil nuts,train
+1,train/brazil nuts/134.jpg,brazil nuts,train
+1,train/brazil nuts/135.jpg,brazil nuts,train
+1,train/brazil nuts/136.jpg,brazil nuts,train
+1,train/brazil nuts/137.jpg,brazil nuts,train
+1,train/brazil nuts/138.jpg,brazil nuts,train
+2,train/cashews/001.jpg,cashews,train
+2,train/cashews/002.jpg,cashews,train
+2,train/cashews/003.jpg,cashews,train
+2,train/cashews/004.jpg,cashews,train
+2,train/cashews/005.jpg,cashews,train
+2,train/cashews/006.jpg,cashews,train
+2,train/cashews/007.jpg,cashews,train
+2,train/cashews/008.jpg,cashews,train
+2,train/cashews/009.jpg,cashews,train
+2,train/cashews/010.jpg,cashews,train
+2,train/cashews/011.jpg,cashews,train
+2,train/cashews/012.jpg,cashews,train
+2,train/cashews/013.jpg,cashews,train
+2,train/cashews/014.jpg,cashews,train
+2,train/cashews/015.jpg,cashews,train
+2,train/cashews/016.jpg,cashews,train
+2,train/cashews/017.jpg,cashews,train
+2,train/cashews/018.jpg,cashews,train
+2,train/cashews/019.jpg,cashews,train
+2,train/cashews/020.jpg,cashews,train
+2,train/cashews/021.jpg,cashews,train
+2,train/cashews/022.jpg,cashews,train
+2,train/cashews/023.jpg,cashews,train
+2,train/cashews/024.jpg,cashews,train
+2,train/cashews/025.jpg,cashews,train
+2,train/cashews/026.jpg,cashews,train
+2,train/cashews/027.jpg,cashews,train
+2,train/cashews/028.jpg,cashews,train
+2,train/cashews/029.jpg,cashews,train
+2,train/cashews/030.jpg,cashews,train
+2,train/cashews/031.jpg,cashews,train
+2,train/cashews/032.jpg,cashews,train
+2,train/cashews/033.jpg,cashews,train
+2,train/cashews/034.jpg,cashews,train
+2,train/cashews/035.jpg,cashews,train
+2,train/cashews/036.jpg,cashews,train
+2,train/cashews/037.jpg,cashews,train
+2,train/cashews/038.jpg,cashews,train
+2,train/cashews/039.jpg,cashews,train
+2,train/cashews/040.jpg,cashews,train
+2,train/cashews/041.jpg,cashews,train
+2,train/cashews/042.jpg,cashews,train
+2,train/cashews/043.jpg,cashews,train
+2,train/cashews/044.jpg,cashews,train
+2,train/cashews/045.jpg,cashews,train
+2,train/cashews/046.jpg,cashews,train
+2,train/cashews/047.jpg,cashews,train
+2,train/cashews/048.jpg,cashews,train
+2,train/cashews/049.jpg,cashews,train
+2,train/cashews/050.jpg,cashews,train
+2,train/cashews/051.jpg,cashews,train
+2,train/cashews/052.jpg,cashews,train
+2,train/cashews/053.jpg,cashews,train
+2,train/cashews/054.jpg,cashews,train
+2,train/cashews/055.jpg,cashews,train
+2,train/cashews/056.jpg,cashews,train
+2,train/cashews/057.jpg,cashews,train
+2,train/cashews/058.jpg,cashews,train
+2,train/cashews/059.jpg,cashews,train
+2,train/cashews/060.jpg,cashews,train
+2,train/cashews/061.jpg,cashews,train
+2,train/cashews/062.jpg,cashews,train
+2,train/cashews/063.jpg,cashews,train
+2,train/cashews/064.jpg,cashews,train
+2,train/cashews/065.jpg,cashews,train
+2,train/cashews/066.jpg,cashews,train
+2,train/cashews/067.jpg,cashews,train
+2,train/cashews/068.jpg,cashews,train
+2,train/cashews/069.jpg,cashews,train
+2,train/cashews/070.jpg,cashews,train
+2,train/cashews/071.jpg,cashews,train
+2,train/cashews/072.jpg,cashews,train
+2,train/cashews/073.jpg,cashews,train
+2,train/cashews/074.jpg,cashews,train
+2,train/cashews/075.jpg,cashews,train
+2,train/cashews/076.jpg,cashews,train
+2,train/cashews/077.jpg,cashews,train
+2,train/cashews/078.jpg,cashews,train
+2,train/cashews/079.jpg,cashews,train
+2,train/cashews/080.jpg,cashews,train
+2,train/cashews/081.jpg,cashews,train
+2,train/cashews/082.jpg,cashews,train
+2,train/cashews/083.jpg,cashews,train
+2,train/cashews/084.jpg,cashews,train
+2,train/cashews/085.jpg,cashews,train
+2,train/cashews/086.jpg,cashews,train
+2,train/cashews/087.jpg,cashews,train
+2,train/cashews/088.jpg,cashews,train
+2,train/cashews/089.jpg,cashews,train
+2,train/cashews/090.jpg,cashews,train
+2,train/cashews/091.jpg,cashews,train
+2,train/cashews/092.jpg,cashews,train
+2,train/cashews/093.jpg,cashews,train
+2,train/cashews/094.jpg,cashews,train
+2,train/cashews/095.jpg,cashews,train
+2,train/cashews/096.jpg,cashews,train
+2,train/cashews/097.jpg,cashews,train
+2,train/cashews/098.jpg,cashews,train
+2,train/cashews/099.jpg,cashews,train
+2,train/cashews/100.jpg,cashews,train
+2,train/cashews/101.jpg,cashews,train
+2,train/cashews/102.jpg,cashews,train
+2,train/cashews/103.jpg,cashews,train
+2,train/cashews/104.jpg,cashews,train
+2,train/cashews/105.jpg,cashews,train
+2,train/cashews/106.jpg,cashews,train
+2,train/cashews/107.jpg,cashews,train
+2,train/cashews/108.jpg,cashews,train
+2,train/cashews/109.jpg,cashews,train
+2,train/cashews/110.jpg,cashews,train
+2,train/cashews/111.jpg,cashews,train
+2,train/cashews/112.jpg,cashews,train
+2,train/cashews/113.jpg,cashews,train
+2,train/cashews/114.jpg,cashews,train
+2,train/cashews/115.jpg,cashews,train
+2,train/cashews/116.jpg,cashews,train
+2,train/cashews/117.jpg,cashews,train
+2,train/cashews/118.jpg,cashews,train
+2,train/cashews/119.jpg,cashews,train
+2,train/cashews/120.jpg,cashews,train
+2,train/cashews/121.jpg,cashews,train
+2,train/cashews/122.jpg,cashews,train
+2,train/cashews/123.jpg,cashews,train
+2,train/cashews/124.jpg,cashews,train
+2,train/cashews/125.jpg,cashews,train
+2,train/cashews/126.jpg,cashews,train
+2,train/cashews/127.jpg,cashews,train
+2,train/cashews/128.jpg,cashews,train
+2,train/cashews/129.jpg,cashews,train
+2,train/cashews/130.jpg,cashews,train
+2,train/cashews/131.jpg,cashews,train
+2,train/cashews/132.jpg,cashews,train
+2,train/cashews/133.jpg,cashews,train
+2,train/cashews/134.jpg,cashews,train
+2,train/cashews/135.jpg,cashews,train
+2,train/cashews/136.jpg,cashews,train
+3,train/coconut/01.jpg,coconut,train
+3,train/coconut/02.jpg,coconut,train
+3,train/coconut/03.jpg,coconut,train
+3,train/coconut/04.jpg,coconut,train
+3,train/coconut/05.jpg,coconut,train
+3,train/coconut/06.jpg,coconut,train
+3,train/coconut/07.jpg,coconut,train
+3,train/coconut/08.jpg,coconut,train
+3,train/coconut/09.jpg,coconut,train
+3,train/coconut/10.jpg,coconut,train
+3,train/coconut/11.jpg,coconut,train
+3,train/coconut/12.jpg,coconut,train
+3,train/coconut/13.jpg,coconut,train
+3,train/coconut/14.jpg,coconut,train
+3,train/coconut/15.jpg,coconut,train
+3,train/coconut/16.jpg,coconut,train
+3,train/coconut/17.jpg,coconut,train
+3,train/coconut/18.jpg,coconut,train
+3,train/coconut/19.jpg,coconut,train
+3,train/coconut/20.jpg,coconut,train
+3,train/coconut/21.jpg,coconut,train
+3,train/coconut/22.jpg,coconut,train
+3,train/coconut/23.jpg,coconut,train
+3,train/coconut/24.jpg,coconut,train
+3,train/coconut/25.jpg,coconut,train
+3,train/coconut/26.jpg,coconut,train
+3,train/coconut/27.jpg,coconut,train
+3,train/coconut/28.jpg,coconut,train
+3,train/coconut/29.jpg,coconut,train
+3,train/coconut/30.jpg,coconut,train
+3,train/coconut/31.jpg,coconut,train
+3,train/coconut/32.jpg,coconut,train
+3,train/coconut/33.jpg,coconut,train
+3,train/coconut/34.jpg,coconut,train
+3,train/coconut/35.jpg,coconut,train
+3,train/coconut/36.jpg,coconut,train
+3,train/coconut/37.jpg,coconut,train
+3,train/coconut/38.jpg,coconut,train
+3,train/coconut/39.jpg,coconut,train
+3,train/coconut/40.jpg,coconut,train
+3,train/coconut/41.jpg,coconut,train
+3,train/coconut/42.jpg,coconut,train
+3,train/coconut/43.jpg,coconut,train
+3,train/coconut/44.jpg,coconut,train
+3,train/coconut/45.jpg,coconut,train
+3,train/coconut/46.jpg,coconut,train
+3,train/coconut/47.jpg,coconut,train
+3,train/coconut/48.jpg,coconut,train
+3,train/coconut/49.jpg,coconut,train
+3,train/coconut/50.jpg,coconut,train
+3,train/coconut/51.jpg,coconut,train
+3,train/coconut/52.jpg,coconut,train
+3,train/coconut/53.jpg,coconut,train
+3,train/coconut/54.jpg,coconut,train
+3,train/coconut/55.jpg,coconut,train
+3,train/coconut/56.jpg,coconut,train
+3,train/coconut/57.jpg,coconut,train
+3,train/coconut/58.jpg,coconut,train
+3,train/coconut/59.jpg,coconut,train
+3,train/coconut/60.jpg,coconut,train
+3,train/coconut/61.jpg,coconut,train
+3,train/coconut/62.jpg,coconut,train
+3,train/coconut/63.jpg,coconut,train
+3,train/coconut/64.jpg,coconut,train
+3,train/coconut/65.jpg,coconut,train
+3,train/coconut/66.jpg,coconut,train
+3,train/coconut/67.jpg,coconut,train
+3,train/coconut/68.jpg,coconut,train
+3,train/coconut/69.jpg,coconut,train
+3,train/coconut/70.jpg,coconut,train
+3,train/coconut/71.jpg,coconut,train
+3,train/coconut/72.jpg,coconut,train
+3,train/coconut/73.jpg,coconut,train
+3,train/coconut/74.jpg,coconut,train
+3,train/coconut/75.jpg,coconut,train
+3,train/coconut/76.jpg,coconut,train
+3,train/coconut/77.jpg,coconut,train
+3,train/coconut/78.jpg,coconut,train
+3,train/coconut/79.jpg,coconut,train
+3,train/coconut/80.jpg,coconut,train
+3,train/coconut/81.jpg,coconut,train
+3,train/coconut/82.jpg,coconut,train
+3,train/coconut/83.jpg,coconut,train
+3,train/coconut/84.jpg,coconut,train
+3,train/coconut/85.jpg,coconut,train
+3,train/coconut/86.jpg,coconut,train
+3,train/coconut/87.jpg,coconut,train
+3,train/coconut/88.jpg,coconut,train
+3,train/coconut/89.jpg,coconut,train
+3,train/coconut/90.jpg,coconut,train
+3,train/coconut/91.jpg,coconut,train
+3,train/coconut/92.jpg,coconut,train
+3,train/coconut/93.jpg,coconut,train
+3,train/coconut/94.jpg,coconut,train
+4,train/hazelnuts/001.jpg,hazelnuts,train
+4,train/hazelnuts/002.jpg,hazelnuts,train
+4,train/hazelnuts/003.jpg,hazelnuts,train
+4,train/hazelnuts/004.jpg,hazelnuts,train
+4,train/hazelnuts/005.jpg,hazelnuts,train
+4,train/hazelnuts/006.jpg,hazelnuts,train
+4,train/hazelnuts/007.jpg,hazelnuts,train
+4,train/hazelnuts/008.jpg,hazelnuts,train
+4,train/hazelnuts/009.jpg,hazelnuts,train
+4,train/hazelnuts/010.jpg,hazelnuts,train
+4,train/hazelnuts/011.jpg,hazelnuts,train
+4,train/hazelnuts/012.jpg,hazelnuts,train
+4,train/hazelnuts/013.jpg,hazelnuts,train
+4,train/hazelnuts/014.jpg,hazelnuts,train
+4,train/hazelnuts/015.jpg,hazelnuts,train
+4,train/hazelnuts/016.jpg,hazelnuts,train
+4,train/hazelnuts/017.jpg,hazelnuts,train
+4,train/hazelnuts/018.jpg,hazelnuts,train
+4,train/hazelnuts/019.jpg,hazelnuts,train
+4,train/hazelnuts/020.jpg,hazelnuts,train
+4,train/hazelnuts/021.jpg,hazelnuts,train
+4,train/hazelnuts/022.jpg,hazelnuts,train
+4,train/hazelnuts/023.jpg,hazelnuts,train
+4,train/hazelnuts/024.jpg,hazelnuts,train
+4,train/hazelnuts/025.jpg,hazelnuts,train
+4,train/hazelnuts/026.jpg,hazelnuts,train
+4,train/hazelnuts/027.jpg,hazelnuts,train
+4,train/hazelnuts/028.jpg,hazelnuts,train
+4,train/hazelnuts/029.jpg,hazelnuts,train
+4,train/hazelnuts/030.jpg,hazelnuts,train
+4,train/hazelnuts/031.jpg,hazelnuts,train
+4,train/hazelnuts/032.jpg,hazelnuts,train
+4,train/hazelnuts/033.jpg,hazelnuts,train
+4,train/hazelnuts/034.jpg,hazelnuts,train
+4,train/hazelnuts/035.jpg,hazelnuts,train
+4,train/hazelnuts/036.jpg,hazelnuts,train
+4,train/hazelnuts/037.jpg,hazelnuts,train
+4,train/hazelnuts/038.jpg,hazelnuts,train
+4,train/hazelnuts/039.jpg,hazelnuts,train
+4,train/hazelnuts/040.jpg,hazelnuts,train
+4,train/hazelnuts/041.jpg,hazelnuts,train
+4,train/hazelnuts/042.jpg,hazelnuts,train
+4,train/hazelnuts/043.jpg,hazelnuts,train
+4,train/hazelnuts/044.jpg,hazelnuts,train
+4,train/hazelnuts/045.jpg,hazelnuts,train
+4,train/hazelnuts/046.jpg,hazelnuts,train
+4,train/hazelnuts/047.jpg,hazelnuts,train
+4,train/hazelnuts/048.jpg,hazelnuts,train
+4,train/hazelnuts/049.jpg,hazelnuts,train
+4,train/hazelnuts/050.jpg,hazelnuts,train
+4,train/hazelnuts/051.jpg,hazelnuts,train
+4,train/hazelnuts/052.jpg,hazelnuts,train
+4,train/hazelnuts/053.jpg,hazelnuts,train
+4,train/hazelnuts/054.jpg,hazelnuts,train
+4,train/hazelnuts/055.jpg,hazelnuts,train
+4,train/hazelnuts/056.jpg,hazelnuts,train
+4,train/hazelnuts/057.jpg,hazelnuts,train
+4,train/hazelnuts/058.jpg,hazelnuts,train
+4,train/hazelnuts/059.jpg,hazelnuts,train
+4,train/hazelnuts/060.jpg,hazelnuts,train
+4,train/hazelnuts/061.jpg,hazelnuts,train
+4,train/hazelnuts/062.jpg,hazelnuts,train
+4,train/hazelnuts/063.jpg,hazelnuts,train
+4,train/hazelnuts/064.jpg,hazelnuts,train
+4,train/hazelnuts/065.jpg,hazelnuts,train
+4,train/hazelnuts/066.jpg,hazelnuts,train
+4,train/hazelnuts/067.jpg,hazelnuts,train
+4,train/hazelnuts/068.jpg,hazelnuts,train
+4,train/hazelnuts/069.jpg,hazelnuts,train
+4,train/hazelnuts/070.jpg,hazelnuts,train
+4,train/hazelnuts/071.jpg,hazelnuts,train
+4,train/hazelnuts/072.jpg,hazelnuts,train
+4,train/hazelnuts/073.jpg,hazelnuts,train
+4,train/hazelnuts/074.jpg,hazelnuts,train
+4,train/hazelnuts/075.jpg,hazelnuts,train
+4,train/hazelnuts/076.jpg,hazelnuts,train
+4,train/hazelnuts/077.jpg,hazelnuts,train
+4,train/hazelnuts/078.jpg,hazelnuts,train
+4,train/hazelnuts/079.jpg,hazelnuts,train
+4,train/hazelnuts/080.jpg,hazelnuts,train
+4,train/hazelnuts/081.jpg,hazelnuts,train
+4,train/hazelnuts/082.jpg,hazelnuts,train
+4,train/hazelnuts/083.jpg,hazelnuts,train
+4,train/hazelnuts/084.jpg,hazelnuts,train
+4,train/hazelnuts/085.jpg,hazelnuts,train
+4,train/hazelnuts/086.jpg,hazelnuts,train
+4,train/hazelnuts/087.jpg,hazelnuts,train
+4,train/hazelnuts/088.jpg,hazelnuts,train
+4,train/hazelnuts/089.jpg,hazelnuts,train
+4,train/hazelnuts/090.jpg,hazelnuts,train
+4,train/hazelnuts/091.jpg,hazelnuts,train
+4,train/hazelnuts/092.jpg,hazelnuts,train
+4,train/hazelnuts/093.jpg,hazelnuts,train
+4,train/hazelnuts/094.jpg,hazelnuts,train
+4,train/hazelnuts/095.jpg,hazelnuts,train
+4,train/hazelnuts/096.jpg,hazelnuts,train
+4,train/hazelnuts/097.jpg,hazelnuts,train
+4,train/hazelnuts/098.jpg,hazelnuts,train
+4,train/hazelnuts/099.jpg,hazelnuts,train
+4,train/hazelnuts/100.jpg,hazelnuts,train
+4,train/hazelnuts/101.jpg,hazelnuts,train
+4,train/hazelnuts/102.jpg,hazelnuts,train
+4,train/hazelnuts/103.jpg,hazelnuts,train
+4,train/hazelnuts/104.jpg,hazelnuts,train
+4,train/hazelnuts/105.jpg,hazelnuts,train
+4,train/hazelnuts/106.jpg,hazelnuts,train
+4,train/hazelnuts/107.jpg,hazelnuts,train
+4,train/hazelnuts/108.jpg,hazelnuts,train
+4,train/hazelnuts/109.jpg,hazelnuts,train
+4,train/hazelnuts/110.jpg,hazelnuts,train
+4,train/hazelnuts/111.jpg,hazelnuts,train
+4,train/hazelnuts/112.jpg,hazelnuts,train
+4,train/hazelnuts/113.jpg,hazelnuts,train
+4,train/hazelnuts/114.jpg,hazelnuts,train
+4,train/hazelnuts/115.jpg,hazelnuts,train
+4,train/hazelnuts/116.jpg,hazelnuts,train
+4,train/hazelnuts/117.jpg,hazelnuts,train
+4,train/hazelnuts/118.jpg,hazelnuts,train
+4,train/hazelnuts/119.jpg,hazelnuts,train
+4,train/hazelnuts/120.jpg,hazelnuts,train
+5,train/macadamia/001.jpg,macadamia,train
+5,train/macadamia/002.jpg,macadamia,train
+5,train/macadamia/003.jpg,macadamia,train
+5,train/macadamia/004.jpg,macadamia,train
+5,train/macadamia/005.jpg,macadamia,train
+5,train/macadamia/006.jpg,macadamia,train
+5,train/macadamia/007.jpg,macadamia,train
+5,train/macadamia/008.jpg,macadamia,train
+5,train/macadamia/009.jpg,macadamia,train
+5,train/macadamia/010.jpg,macadamia,train
+5,train/macadamia/011.jpg,macadamia,train
+5,train/macadamia/012.jpg,macadamia,train
+5,train/macadamia/013.jpg,macadamia,train
+5,train/macadamia/014.jpg,macadamia,train
+5,train/macadamia/015.jpg,macadamia,train
+5,train/macadamia/016.jpg,macadamia,train
+5,train/macadamia/017.jpg,macadamia,train
+5,train/macadamia/018.jpg,macadamia,train
+5,train/macadamia/019.jpg,macadamia,train
+5,train/macadamia/020.jpg,macadamia,train
+5,train/macadamia/021.jpg,macadamia,train
+5,train/macadamia/022.jpg,macadamia,train
+5,train/macadamia/023.jpg,macadamia,train
+5,train/macadamia/024.jpg,macadamia,train
+5,train/macadamia/025.jpg,macadamia,train
+5,train/macadamia/026.jpg,macadamia,train
+5,train/macadamia/027.jpg,macadamia,train
+5,train/macadamia/028.jpg,macadamia,train
+5,train/macadamia/029.jpg,macadamia,train
+5,train/macadamia/030.jpg,macadamia,train
+5,train/macadamia/031.jpg,macadamia,train
+5,train/macadamia/032.jpg,macadamia,train
+5,train/macadamia/033.jpg,macadamia,train
+5,train/macadamia/034.jpg,macadamia,train
+5,train/macadamia/035.jpg,macadamia,train
+5,train/macadamia/036.jpg,macadamia,train
+5,train/macadamia/037.jpg,macadamia,train
+5,train/macadamia/038.jpg,macadamia,train
+5,train/macadamia/039.jpg,macadamia,train
+5,train/macadamia/040.jpg,macadamia,train
+5,train/macadamia/041.jpg,macadamia,train
+5,train/macadamia/042.jpg,macadamia,train
+5,train/macadamia/043.jpg,macadamia,train
+5,train/macadamia/044.jpg,macadamia,train
+5,train/macadamia/045.jpg,macadamia,train
+5,train/macadamia/046.jpg,macadamia,train
+5,train/macadamia/047.jpg,macadamia,train
+5,train/macadamia/048.jpg,macadamia,train
+5,train/macadamia/049.jpg,macadamia,train
+5,train/macadamia/050.jpg,macadamia,train
+5,train/macadamia/051.jpg,macadamia,train
+5,train/macadamia/052.jpg,macadamia,train
+5,train/macadamia/053.jpg,macadamia,train
+5,train/macadamia/054.jpg,macadamia,train
+5,train/macadamia/055.jpg,macadamia,train
+5,train/macadamia/056.jpg,macadamia,train
+5,train/macadamia/057.jpg,macadamia,train
+5,train/macadamia/058.jpg,macadamia,train
+5,train/macadamia/059.jpg,macadamia,train
+5,train/macadamia/060.jpg,macadamia,train
+5,train/macadamia/061.jpg,macadamia,train
+5,train/macadamia/062.jpg,macadamia,train
+5,train/macadamia/063.jpg,macadamia,train
+5,train/macadamia/064.jpg,macadamia,train
+5,train/macadamia/065.jpg,macadamia,train
+5,train/macadamia/066.jpg,macadamia,train
+5,train/macadamia/067.jpg,macadamia,train
+5,train/macadamia/068.jpg,macadamia,train
+5,train/macadamia/069.jpg,macadamia,train
+5,train/macadamia/070.jpg,macadamia,train
+5,train/macadamia/071.jpg,macadamia,train
+5,train/macadamia/072.jpg,macadamia,train
+5,train/macadamia/073.jpg,macadamia,train
+5,train/macadamia/074.jpg,macadamia,train
+5,train/macadamia/075.jpg,macadamia,train
+5,train/macadamia/076.jpg,macadamia,train
+5,train/macadamia/077.jpg,macadamia,train
+5,train/macadamia/078.jpg,macadamia,train
+5,train/macadamia/079.jpg,macadamia,train
+5,train/macadamia/080.jpg,macadamia,train
+5,train/macadamia/081.jpg,macadamia,train
+5,train/macadamia/082.jpg,macadamia,train
+5,train/macadamia/083.jpg,macadamia,train
+5,train/macadamia/084.jpg,macadamia,train
+5,train/macadamia/085.jpg,macadamia,train
+5,train/macadamia/086.jpg,macadamia,train
+5,train/macadamia/087.jpg,macadamia,train
+5,train/macadamia/088.jpg,macadamia,train
+5,train/macadamia/089.jpg,macadamia,train
+5,train/macadamia/090.jpg,macadamia,train
+5,train/macadamia/091.jpg,macadamia,train
+5,train/macadamia/092.jpg,macadamia,train
+5,train/macadamia/093.jpg,macadamia,train
+5,train/macadamia/094.jpg,macadamia,train
+5,train/macadamia/095.jpg,macadamia,train
+5,train/macadamia/096.jpg,macadamia,train
+5,train/macadamia/097.jpg,macadamia,train
+5,train/macadamia/098.jpg,macadamia,train
+5,train/macadamia/099.jpg,macadamia,train
+5,train/macadamia/100.jpg,macadamia,train
+5,train/macadamia/101.jpg,macadamia,train
+6,train/pecans/001.jpg,pecans,train
+6,train/pecans/002.jpg,pecans,train
+6,train/pecans/003.jpg,pecans,train
+6,train/pecans/004.jpg,pecans,train
+6,train/pecans/005.jpg,pecans,train
+6,train/pecans/006.jpg,pecans,train
+6,train/pecans/007.jpg,pecans,train
+6,train/pecans/008.jpg,pecans,train
+6,train/pecans/009.jpg,pecans,train
+6,train/pecans/010.jpg,pecans,train
+6,train/pecans/011.jpg,pecans,train
+6,train/pecans/012.jpg,pecans,train
+6,train/pecans/013.jpg,pecans,train
+6,train/pecans/014.jpg,pecans,train
+6,train/pecans/015.jpg,pecans,train
+6,train/pecans/016.jpg,pecans,train
+6,train/pecans/017.jpg,pecans,train
+6,train/pecans/018.jpg,pecans,train
+6,train/pecans/019.jpg,pecans,train
+6,train/pecans/020.jpg,pecans,train
+6,train/pecans/021.jpg,pecans,train
+6,train/pecans/022.jpg,pecans,train
+6,train/pecans/023.jpg,pecans,train
+6,train/pecans/024.jpg,pecans,train
+6,train/pecans/025.jpg,pecans,train
+6,train/pecans/026.jpg,pecans,train
+6,train/pecans/027.jpg,pecans,train
+6,train/pecans/028.jpg,pecans,train
+6,train/pecans/029.jpg,pecans,train
+6,train/pecans/030.jpg,pecans,train
+6,train/pecans/031.jpg,pecans,train
+6,train/pecans/032.jpg,pecans,train
+6,train/pecans/033.jpg,pecans,train
+6,train/pecans/034.jpg,pecans,train
+6,train/pecans/035.jpg,pecans,train
+6,train/pecans/036.jpg,pecans,train
+6,train/pecans/037.jpg,pecans,train
+6,train/pecans/038.jpg,pecans,train
+6,train/pecans/039.jpg,pecans,train
+6,train/pecans/040.jpg,pecans,train
+6,train/pecans/041.jpg,pecans,train
+6,train/pecans/042.jpg,pecans,train
+6,train/pecans/043.jpg,pecans,train
+6,train/pecans/044.jpg,pecans,train
+6,train/pecans/045.jpg,pecans,train
+6,train/pecans/046.jpg,pecans,train
+6,train/pecans/047.jpg,pecans,train
+6,train/pecans/048.jpg,pecans,train
+6,train/pecans/049.jpg,pecans,train
+6,train/pecans/050.jpg,pecans,train
+6,train/pecans/051.jpg,pecans,train
+6,train/pecans/052.jpg,pecans,train
+6,train/pecans/053.jpg,pecans,train
+6,train/pecans/054.jpg,pecans,train
+6,train/pecans/055.jpg,pecans,train
+6,train/pecans/056.jpg,pecans,train
+6,train/pecans/057.jpg,pecans,train
+6,train/pecans/058.jpg,pecans,train
+6,train/pecans/059.jpg,pecans,train
+6,train/pecans/060.jpg,pecans,train
+6,train/pecans/061.jpg,pecans,train
+6,train/pecans/062.jpg,pecans,train
+6,train/pecans/063.jpg,pecans,train
+6,train/pecans/064.jpg,pecans,train
+6,train/pecans/065.jpg,pecans,train
+6,train/pecans/066.jpg,pecans,train
+6,train/pecans/067.jpg,pecans,train
+6,train/pecans/068.jpg,pecans,train
+6,train/pecans/069.jpg,pecans,train
+6,train/pecans/070.jpg,pecans,train
+6,train/pecans/071.jpg,pecans,train
+6,train/pecans/072.jpg,pecans,train
+6,train/pecans/073.jpg,pecans,train
+6,train/pecans/074.jpg,pecans,train
+6,train/pecans/075.jpg,pecans,train
+6,train/pecans/076.jpg,pecans,train
+6,train/pecans/077.jpg,pecans,train
+6,train/pecans/078.jpg,pecans,train
+6,train/pecans/079.jpg,pecans,train
+6,train/pecans/080.jpg,pecans,train
+6,train/pecans/081.jpg,pecans,train
+6,train/pecans/082.jpg,pecans,train
+6,train/pecans/083.jpg,pecans,train
+6,train/pecans/084.jpg,pecans,train
+6,train/pecans/085.jpg,pecans,train
+6,train/pecans/086.jpg,pecans,train
+6,train/pecans/087.jpg,pecans,train
+6,train/pecans/088.jpg,pecans,train
+6,train/pecans/089.jpg,pecans,train
+6,train/pecans/090.jpg,pecans,train
+6,train/pecans/091.jpg,pecans,train
+6,train/pecans/092.jpg,pecans,train
+6,train/pecans/093.jpg,pecans,train
+6,train/pecans/094.jpg,pecans,train
+6,train/pecans/095.jpg,pecans,train
+6,train/pecans/096.jpg,pecans,train
+6,train/pecans/097.jpg,pecans,train
+6,train/pecans/098.jpg,pecans,train
+6,train/pecans/099.jpg,pecans,train
+6,train/pecans/100.jpg,pecans,train
+6,train/pecans/101.jpg,pecans,train
+6,train/pecans/102.jpg,pecans,train
+6,train/pecans/103.jpg,pecans,train
+6,train/pecans/104.jpg,pecans,train
+6,train/pecans/105.jpg,pecans,train
+6,train/pecans/106.jpg,pecans,train
+6,train/pecans/107.jpg,pecans,train
+6,train/pecans/108.jpg,pecans,train
+6,train/pecans/109.jpg,pecans,train
+6,train/pecans/110.jpg,pecans,train
+6,train/pecans/111.jpg,pecans,train
+6,train/pecans/112.jpg,pecans,train
+6,train/pecans/113.jpg,pecans,train
+6,train/pecans/114.jpg,pecans,train
+6,train/pecans/115.jpg,pecans,train
+6,train/pecans/116.jpg,pecans,train
+6,train/pecans/117.jpg,pecans,train
+6,train/pecans/118.jpg,pecans,train
+6,train/pecans/119.jpg,pecans,train
+6,train/pecans/120.jpg,pecans,train
+6,train/pecans/121.jpg,pecans,train
+6,train/pecans/122.jpg,pecans,train
+6,train/pecans/123.jpg,pecans,train
+6,train/pecans/124.jpg,pecans,train
+6,train/pecans/125.jpg,pecans,train
+6,train/pecans/126.jpg,pecans,train
+6,train/pecans/127.jpg,pecans,train
+6,train/pecans/128.jpg,pecans,train
+6,train/pecans/129.jpg,pecans,train
+6,train/pecans/130.jpg,pecans,train
+6,train/pecans/131.jpg,pecans,train
+6,train/pecans/132.jpg,pecans,train
+6,train/pecans/133.jpg,pecans,train
+6,train/pecans/134.jpg,pecans,train
+6,train/pecans/135.jpg,pecans,train
+6,train/pecans/136.jpg,pecans,train
+6,train/pecans/137.jpg,pecans,train
+6,train/pecans/138.jpg,pecans,train
+6,train/pecans/139.jpg,pecans,train
+6,train/pecans/140.jpg,pecans,train
+6,train/pecans/141.jpg,pecans,train
+6,train/pecans/142.jpg,pecans,train
+6,train/pecans/143.jpg,pecans,train
+6,train/pecans/144.jpg,pecans,train
+6,train/pecans/145.jpg,pecans,train
+6,train/pecans/146.jpg,pecans,train
+6,train/pecans/147.jpg,pecans,train
+6,train/pecans/148.jpg,pecans,train
+6,train/pecans/149.jpg,pecans,train
+6,train/pecans/150.jpg,pecans,train
+6,train/pecans/151.jpg,pecans,train
+6,train/pecans/152.jpg,pecans,train
+6,train/pecans/153.jpg,pecans,train
+6,train/pecans/154.jpg,pecans,train
+6,train/pecans/155.jpg,pecans,train
+6,train/pecans/156.jpg,pecans,train
+6,train/pecans/157.jpg,pecans,train
+6,train/pecans/158.jpg,pecans,train
+6,train/pecans/159.jpg,pecans,train
+6,train/pecans/160.jpg,pecans,train
+6,train/pecans/161.jpg,pecans,train
+7,train/pine nuts/01.jpg,pine nuts,train
+7,train/pine nuts/02.jpg,pine nuts,train
+7,train/pine nuts/03.jpg,pine nuts,train
+7,train/pine nuts/04.jpg,pine nuts,train
+7,train/pine nuts/05.jpg,pine nuts,train
+7,train/pine nuts/06.jpg,pine nuts,train
+7,train/pine nuts/07.jpg,pine nuts,train
+7,train/pine nuts/08.jpg,pine nuts,train
+7,train/pine nuts/09.jpg,pine nuts,train
+7,train/pine nuts/10.jpg,pine nuts,train
+7,train/pine nuts/11.jpg,pine nuts,train
+7,train/pine nuts/12.jpg,pine nuts,train
+7,train/pine nuts/13.jpg,pine nuts,train
+7,train/pine nuts/14.jpg,pine nuts,train
+7,train/pine nuts/15.jpg,pine nuts,train
+7,train/pine nuts/16.jpg,pine nuts,train
+7,train/pine nuts/17.jpg,pine nuts,train
+7,train/pine nuts/18.jpg,pine nuts,train
+7,train/pine nuts/19.jpg,pine nuts,train
+7,train/pine nuts/20.jpg,pine nuts,train
+7,train/pine nuts/21.jpg,pine nuts,train
+7,train/pine nuts/22.jpg,pine nuts,train
+7,train/pine nuts/23.jpg,pine nuts,train
+7,train/pine nuts/24.jpg,pine nuts,train
+7,train/pine nuts/25.jpg,pine nuts,train
+7,train/pine nuts/26.jpg,pine nuts,train
+7,train/pine nuts/27.jpg,pine nuts,train
+7,train/pine nuts/28.jpg,pine nuts,train
+7,train/pine nuts/29.jpg,pine nuts,train
+7,train/pine nuts/30.jpg,pine nuts,train
+7,train/pine nuts/31.jpg,pine nuts,train
+7,train/pine nuts/32.jpg,pine nuts,train
+7,train/pine nuts/33.jpg,pine nuts,train
+7,train/pine nuts/34.jpg,pine nuts,train
+7,train/pine nuts/35.jpg,pine nuts,train
+7,train/pine nuts/36.jpg,pine nuts,train
+7,train/pine nuts/37.jpg,pine nuts,train
+7,train/pine nuts/38.jpg,pine nuts,train
+7,train/pine nuts/39.jpg,pine nuts,train
+7,train/pine nuts/40.jpg,pine nuts,train
+7,train/pine nuts/41.jpg,pine nuts,train
+7,train/pine nuts/42.jpg,pine nuts,train
+7,train/pine nuts/43.jpg,pine nuts,train
+7,train/pine nuts/44.jpg,pine nuts,train
+7,train/pine nuts/45.jpg,pine nuts,train
+7,train/pine nuts/46.jpg,pine nuts,train
+7,train/pine nuts/47.jpg,pine nuts,train
+7,train/pine nuts/48.jpg,pine nuts,train
+7,train/pine nuts/49.jpg,pine nuts,train
+7,train/pine nuts/50.jpg,pine nuts,train
+7,train/pine nuts/51.jpg,pine nuts,train
+7,train/pine nuts/52.jpg,pine nuts,train
+7,train/pine nuts/53.jpg,pine nuts,train
+7,train/pine nuts/54.jpg,pine nuts,train
+7,train/pine nuts/55.jpg,pine nuts,train
+7,train/pine nuts/56.jpg,pine nuts,train
+7,train/pine nuts/57.jpg,pine nuts,train
+7,train/pine nuts/58.jpg,pine nuts,train
+7,train/pine nuts/59.jpg,pine nuts,train
+7,train/pine nuts/60.jpg,pine nuts,train
+7,train/pine nuts/61.jpg,pine nuts,train
+7,train/pine nuts/62.jpg,pine nuts,train
+7,train/pine nuts/63.jpg,pine nuts,train
+7,train/pine nuts/64.jpg,pine nuts,train
+7,train/pine nuts/65.jpg,pine nuts,train
+7,train/pine nuts/66.jpg,pine nuts,train
+7,train/pine nuts/67.jpg,pine nuts,train
+7,train/pine nuts/68.jpg,pine nuts,train
+7,train/pine nuts/69.jpg,pine nuts,train
+7,train/pine nuts/70.jpg,pine nuts,train
+7,train/pine nuts/71.jpg,pine nuts,train
+7,train/pine nuts/72.jpg,pine nuts,train
+7,train/pine nuts/73.jpg,pine nuts,train
+7,train/pine nuts/74.jpg,pine nuts,train
+7,train/pine nuts/75.jpg,pine nuts,train
+7,train/pine nuts/76.jpg,pine nuts,train
+7,train/pine nuts/77.jpg,pine nuts,train
+7,train/pine nuts/78.jpg,pine nuts,train
+7,train/pine nuts/79.jpg,pine nuts,train
+7,train/pine nuts/80.jpg,pine nuts,train
+7,train/pine nuts/81.jpg,pine nuts,train
+7,train/pine nuts/82.jpg,pine nuts,train
+7,train/pine nuts/83.jpg,pine nuts,train
+7,train/pine nuts/84.jpg,pine nuts,train
+7,train/pine nuts/85.jpg,pine nuts,train
+7,train/pine nuts/86.jpg,pine nuts,train
+7,train/pine nuts/87.jpg,pine nuts,train
+7,train/pine nuts/88.jpg,pine nuts,train
+7,train/pine nuts/89.jpg,pine nuts,train
+7,train/pine nuts/90.jpg,pine nuts,train
+7,train/pine nuts/91.jpg,pine nuts,train
+7,train/pine nuts/92.jpg,pine nuts,train
+7,train/pine nuts/93.jpg,pine nuts,train
+7,train/pine nuts/94.jpg,pine nuts,train
+7,train/pine nuts/95.jpg,pine nuts,train
+7,train/pine nuts/96.jpg,pine nuts,train
+7,train/pine nuts/97.jpg,pine nuts,train
+7,train/pine nuts/98.jpg,pine nuts,train
+8,train/pistachios/001.jpg,pistachios,train
+8,train/pistachios/002.jpg,pistachios,train
+8,train/pistachios/003.jpg,pistachios,train
+8,train/pistachios/004.jpg,pistachios,train
+8,train/pistachios/005.jpg,pistachios,train
+8,train/pistachios/006.jpg,pistachios,train
+8,train/pistachios/007.jpg,pistachios,train
+8,train/pistachios/008.jpg,pistachios,train
+8,train/pistachios/009.jpg,pistachios,train
+8,train/pistachios/010.jpg,pistachios,train
+8,train/pistachios/011.jpg,pistachios,train
+8,train/pistachios/012.jpg,pistachios,train
+8,train/pistachios/013.jpg,pistachios,train
+8,train/pistachios/014.jpg,pistachios,train
+8,train/pistachios/015.jpg,pistachios,train
+8,train/pistachios/016.jpg,pistachios,train
+8,train/pistachios/017.jpg,pistachios,train
+8,train/pistachios/018.jpg,pistachios,train
+8,train/pistachios/019.jpg,pistachios,train
+8,train/pistachios/020.jpg,pistachios,train
+8,train/pistachios/021.jpg,pistachios,train
+8,train/pistachios/022.jpg,pistachios,train
+8,train/pistachios/023.jpg,pistachios,train
+8,train/pistachios/024.jpg,pistachios,train
+8,train/pistachios/025.jpg,pistachios,train
+8,train/pistachios/026.jpg,pistachios,train
+8,train/pistachios/027.jpg,pistachios,train
+8,train/pistachios/028.jpg,pistachios,train
+8,train/pistachios/029.jpg,pistachios,train
+8,train/pistachios/030.jpg,pistachios,train
+8,train/pistachios/031.jpg,pistachios,train
+8,train/pistachios/032.jpg,pistachios,train
+8,train/pistachios/033.jpg,pistachios,train
+8,train/pistachios/034.jpg,pistachios,train
+8,train/pistachios/035.jpg,pistachios,train
+8,train/pistachios/036.jpg,pistachios,train
+8,train/pistachios/037.jpg,pistachios,train
+8,train/pistachios/038.jpg,pistachios,train
+8,train/pistachios/039.jpg,pistachios,train
+8,train/pistachios/040.jpg,pistachios,train
+8,train/pistachios/041.jpg,pistachios,train
+8,train/pistachios/042.jpg,pistachios,train
+8,train/pistachios/043.jpg,pistachios,train
+8,train/pistachios/044.jpg,pistachios,train
+8,train/pistachios/045.jpg,pistachios,train
+8,train/pistachios/046.jpg,pistachios,train
+8,train/pistachios/047.jpg,pistachios,train
+8,train/pistachios/048.jpg,pistachios,train
+8,train/pistachios/049.jpg,pistachios,train
+8,train/pistachios/050.jpg,pistachios,train
+8,train/pistachios/051.jpg,pistachios,train
+8,train/pistachios/052.jpg,pistachios,train
+8,train/pistachios/053.jpg,pistachios,train
+8,train/pistachios/054.jpg,pistachios,train
+8,train/pistachios/055.jpg,pistachios,train
+8,train/pistachios/056.jpg,pistachios,train
+8,train/pistachios/057.jpg,pistachios,train
+8,train/pistachios/058.jpg,pistachios,train
+8,train/pistachios/059.jpg,pistachios,train
+8,train/pistachios/060.jpg,pistachios,train
+8,train/pistachios/061.jpg,pistachios,train
+8,train/pistachios/062.jpg,pistachios,train
+8,train/pistachios/063.jpg,pistachios,train
+8,train/pistachios/064.jpg,pistachios,train
+8,train/pistachios/065.jpg,pistachios,train
+8,train/pistachios/066.jpg,pistachios,train
+8,train/pistachios/067.jpg,pistachios,train
+8,train/pistachios/068.jpg,pistachios,train
+8,train/pistachios/069.jpg,pistachios,train
+8,train/pistachios/070.jpg,pistachios,train
+8,train/pistachios/071.jpg,pistachios,train
+8,train/pistachios/072.jpg,pistachios,train
+8,train/pistachios/073.jpg,pistachios,train
+8,train/pistachios/074.jpg,pistachios,train
+8,train/pistachios/075.jpg,pistachios,train
+8,train/pistachios/076.jpg,pistachios,train
+8,train/pistachios/077.jpg,pistachios,train
+8,train/pistachios/078.jpg,pistachios,train
+8,train/pistachios/079.jpg,pistachios,train
+8,train/pistachios/080.jpg,pistachios,train
+8,train/pistachios/081.jpg,pistachios,train
+8,train/pistachios/082.jpg,pistachios,train
+8,train/pistachios/083.jpg,pistachios,train
+8,train/pistachios/084.jpg,pistachios,train
+8,train/pistachios/085.jpg,pistachios,train
+8,train/pistachios/086.jpg,pistachios,train
+8,train/pistachios/087.jpg,pistachios,train
+8,train/pistachios/088.jpg,pistachios,train
+8,train/pistachios/089.jpg,pistachios,train
+8,train/pistachios/090.jpg,pistachios,train
+8,train/pistachios/091.jpg,pistachios,train
+8,train/pistachios/092.jpg,pistachios,train
+8,train/pistachios/093.jpg,pistachios,train
+8,train/pistachios/094.jpg,pistachios,train
+8,train/pistachios/095.jpg,pistachios,train
+8,train/pistachios/096.jpg,pistachios,train
+8,train/pistachios/097.jpg,pistachios,train
+8,train/pistachios/098.jpg,pistachios,train
+8,train/pistachios/099.jpg,pistachios,train
+8,train/pistachios/100.jpg,pistachios,train
+8,train/pistachios/101.jpg,pistachios,train
+8,train/pistachios/102.jpg,pistachios,train
+8,train/pistachios/103.jpg,pistachios,train
+8,train/pistachios/104.jpg,pistachios,train
+8,train/pistachios/105.jpg,pistachios,train
+8,train/pistachios/106.jpg,pistachios,train
+8,train/pistachios/107.jpg,pistachios,train
+8,train/pistachios/108.jpg,pistachios,train
+8,train/pistachios/109.jpg,pistachios,train
+8,train/pistachios/110.jpg,pistachios,train
+9,train/walnuts/01.jpg,walnuts,train
+9,train/walnuts/02.jpg,walnuts,train
+9,train/walnuts/03.jpg,walnuts,train
+9,train/walnuts/04.jpg,walnuts,train
+9,train/walnuts/05.jpg,walnuts,train
+9,train/walnuts/06.jpg,walnuts,train
+9,train/walnuts/07.jpg,walnuts,train
+9,train/walnuts/08.jpg,walnuts,train
+9,train/walnuts/09.jpg,walnuts,train
+9,train/walnuts/10.jpg,walnuts,train
+9,train/walnuts/11.jpg,walnuts,train
+9,train/walnuts/12.jpg,walnuts,train
+9,train/walnuts/13.jpg,walnuts,train
+9,train/walnuts/14.jpg,walnuts,train
+9,train/walnuts/15.jpg,walnuts,train
+9,train/walnuts/16.jpg,walnuts,train
+9,train/walnuts/17.jpg,walnuts,train
+9,train/walnuts/18.jpg,walnuts,train
+9,train/walnuts/19.jpg,walnuts,train
+9,train/walnuts/20.jpg,walnuts,train
+9,train/walnuts/21.jpg,walnuts,train
+9,train/walnuts/22.jpg,walnuts,train
+9,train/walnuts/23.jpg,walnuts,train
+9,train/walnuts/24.jpg,walnuts,train
+9,train/walnuts/25.jpg,walnuts,train
+9,train/walnuts/26.jpg,walnuts,train
+9,train/walnuts/27.jpg,walnuts,train
+9,train/walnuts/28.jpg,walnuts,train
+9,train/walnuts/29.jpg,walnuts,train
+9,train/walnuts/30.jpg,walnuts,train
+9,train/walnuts/31.jpg,walnuts,train
+9,train/walnuts/32.jpg,walnuts,train
+9,train/walnuts/33.jpg,walnuts,train
+9,train/walnuts/34.jpg,walnuts,train
+9,train/walnuts/35.jpg,walnuts,train
+9,train/walnuts/36.jpg,walnuts,train
+9,train/walnuts/37.jpg,walnuts,train
+9,train/walnuts/38.jpg,walnuts,train
+9,train/walnuts/39.jpg,walnuts,train
+9,train/walnuts/40.jpg,walnuts,train
+9,train/walnuts/41.jpg,walnuts,train
+9,train/walnuts/42.jpg,walnuts,train
+9,train/walnuts/43.jpg,walnuts,train
+9,train/walnuts/44.jpg,walnuts,train
+9,train/walnuts/45.jpg,walnuts,train
+9,train/walnuts/46.jpg,walnuts,train
+9,train/walnuts/47.jpg,walnuts,train
+9,train/walnuts/48.jpg,walnuts,train
+9,train/walnuts/49.jpg,walnuts,train
+9,train/walnuts/50.jpg,walnuts,train
+9,train/walnuts/51.jpg,walnuts,train
+9,train/walnuts/52.jpg,walnuts,train
+9,train/walnuts/53.jpg,walnuts,train
+9,train/walnuts/54.jpg,walnuts,train
+9,train/walnuts/55.jpg,walnuts,train
+9,train/walnuts/56.jpg,walnuts,train
+9,train/walnuts/57.jpg,walnuts,train
+9,train/walnuts/58.jpg,walnuts,train
+9,train/walnuts/59.jpg,walnuts,train
+9,train/walnuts/60.jpg,walnuts,train
+9,train/walnuts/61.jpg,walnuts,train
+9,train/walnuts/62.jpg,walnuts,train
+9,train/walnuts/63.jpg,walnuts,train
+9,train/walnuts/64.jpg,walnuts,train
+9,train/walnuts/65.jpg,walnuts,train
+9,train/walnuts/66.jpg,walnuts,train
+9,train/walnuts/67.jpg,walnuts,train
+9,train/walnuts/68.jpg,walnuts,train
+9,train/walnuts/69.jpg,walnuts,train
+9,train/walnuts/70.jpg,walnuts,train
+9,train/walnuts/71.jpg,walnuts,train
+9,train/walnuts/72.jpg,walnuts,train
+9,train/walnuts/73.jpg,walnuts,train
+9,train/walnuts/74.jpg,walnuts,train
+9,train/walnuts/75.jpg,walnuts,train
+9,train/walnuts/76.jpg,walnuts,train
+9,train/walnuts/77.jpg,walnuts,train
+9,train/walnuts/78.jpg,walnuts,train
+9,train/walnuts/79.jpg,walnuts,train
+9,train/walnuts/80.jpg,walnuts,train
+9,train/walnuts/81.jpg,walnuts,train
+9,train/walnuts/82.jpg,walnuts,train
+9,train/walnuts/83.jpg,walnuts,train
+9,train/walnuts/84.jpg,walnuts,train
+9,train/walnuts/85.jpg,walnuts,train
+9,train/walnuts/86.jpg,walnuts,train
+9,train/walnuts/87.jpg,walnuts,train
+9,train/walnuts/88.jpg,walnuts,train
+9,train/walnuts/89.jpg,walnuts,train
+9,train/walnuts/90.jpg,walnuts,train
+9,train/walnuts/91.jpg,walnuts,train
+9,train/walnuts/92.jpg,walnuts,train
+9,train/walnuts/93.jpg,walnuts,train
+9,train/walnuts/94.jpg,walnuts,train
+9,train/walnuts/95.jpg,walnuts,train
+9,train/walnuts/96.jpg,walnuts,train
+0,test/almonds/1.jpg,almonds,test
+0,test/almonds/2.jpg,almonds,test
+0,test/almonds/3.jpg,almonds,test
+0,test/almonds/4.jpg,almonds,test
+0,test/almonds/5.jpg,almonds,test
+1,test/brazil nuts/1.jpg,brazil nuts,test
+1,test/brazil nuts/2.jpg,brazil nuts,test
+1,test/brazil nuts/3.jpg,brazil nuts,test
+1,test/brazil nuts/4.jpg,brazil nuts,test
+1,test/brazil nuts/5.jpg,brazil nuts,test
+2,test/cashews/1.jpg,cashews,test
+2,test/cashews/2.jpg,cashews,test
+2,test/cashews/3.jpg,cashews,test
+2,test/cashews/4.jpg,cashews,test
+2,test/cashews/5.jpg,cashews,test
+3,test/coconut/1.jpg,coconut,test
+3,test/coconut/2.jpg,coconut,test
+3,test/coconut/3.jpg,coconut,test
+3,test/coconut/4.jpg,coconut,test
+3,test/coconut/5.jpg,coconut,test
+4,test/hazelnuts/1.jpg,hazelnuts,test
+4,test/hazelnuts/2.jpg,hazelnuts,test
+4,test/hazelnuts/3.jpg,hazelnuts,test
+4,test/hazelnuts/4.jpg,hazelnuts,test
+4,test/hazelnuts/5.jpg,hazelnuts,test
+5,test/macadamia/1.jpg,macadamia,test
+5,test/macadamia/2.jpg,macadamia,test
+5,test/macadamia/3.jpg,macadamia,test
+5,test/macadamia/4.jpg,macadamia,test
+5,test/macadamia/5.jpg,macadamia,test
+6,test/pecans/1.jpg,pecans,test
+6,test/pecans/2.jpg,pecans,test
+6,test/pecans/3.jpg,pecans,test
+6,test/pecans/4.jpg,pecans,test
+6,test/pecans/5.jpg,pecans,test
+7,test/pine nuts/1.jpg,pine nuts,test
+7,test/pine nuts/2.jpg,pine nuts,test
+7,test/pine nuts/3.jpg,pine nuts,test
+7,test/pine nuts/4.jpg,pine nuts,test
+7,test/pine nuts/5.jpg,pine nuts,test
+8,test/pistachios/1.jpg,pistachios,test
+8,test/pistachios/2.jpg,pistachios,test
+8,test/pistachios/3.jpg,pistachios,test
+8,test/pistachios/4.jpg,pistachios,test
+8,test/pistachios/5.jpg,pistachios,test
+9,test/walnuts/1.jpg,walnuts,test
+9,test/walnuts/2.jpg,walnuts,test
+9,test/walnuts/3.jpg,walnuts,test
+9,test/walnuts/4.jpg,walnuts,test
+9,test/walnuts/5.jpg,walnuts,test
+0,valid/almonds/1.jpg,almonds,valid
+0,valid/almonds/2.jpg,almonds,valid
+0,valid/almonds/3.jpg,almonds,valid
+0,valid/almonds/4.jpg,almonds,valid
+0,valid/almonds/5.jpg,almonds,valid
+1,valid/brazil nuts/1.jpg,brazil nuts,valid
+1,valid/brazil nuts/2.jpg,brazil nuts,valid
+1,valid/brazil nuts/3.jpg,brazil nuts,valid
+1,valid/brazil nuts/4.jpg,brazil nuts,valid
+1,valid/brazil nuts/5.jpg,brazil nuts,valid
+2,valid/cashews/1.jpg,cashews,valid
+2,valid/cashews/2.jpg,cashews,valid
+2,valid/cashews/3.jpg,cashews,valid
+2,valid/cashews/4.jpg,cashews,valid
+2,valid/cashews/5.jpg,cashews,valid
+3,valid/coconut/1.jpg,coconut,valid
+3,valid/coconut/2.jpg,coconut,valid
+3,valid/coconut/3.jpg,coconut,valid
+3,valid/coconut/4.jpg,coconut,valid
+3,valid/coconut/5.jpg,coconut,valid
+4,valid/hazelnuts/1.jpg,hazelnuts,valid
+4,valid/hazelnuts/2.jpg,hazelnuts,valid
+4,valid/hazelnuts/3.jpg,hazelnuts,valid
+4,valid/hazelnuts/4.jpg,hazelnuts,valid
+4,valid/hazelnuts/5.jpg,hazelnuts,valid
+5,valid/macadamia/1.jpg,macadamia,valid
+5,valid/macadamia/2.jpg,macadamia,valid
+5,valid/macadamia/3.jpg,macadamia,valid
+5,valid/macadamia/4.jpg,macadamia,valid
+5,valid/macadamia/5.jpg,macadamia,valid
+6,valid/pecans/1.jpg,pecans,valid
+6,valid/pecans/2.jpg,pecans,valid
+6,valid/pecans/3.jpg,pecans,valid
+6,valid/pecans/4.jpg,pecans,valid
+6,valid/pecans/5.jpg,pecans,valid
+7,valid/pine nuts/1.jpg,pine nuts,valid
+7,valid/pine nuts/2.jpg,pine nuts,valid
+7,valid/pine nuts/3.jpg,pine nuts,valid
+7,valid/pine nuts/4.jpg,pine nuts,valid
+7,valid/pine nuts/5.jpg,pine nuts,valid
+8,valid/pistachios/1.jpg,pistachios,valid
+8,valid/pistachios/2.jpg,pistachios,valid
+8,valid/pistachios/3.jpg,pistachios,valid
+8,valid/pistachios/4.jpg,pistachios,valid
+8,valid/pistachios/5.jpg,pistachios,valid
+9,valid/walnuts/1.jpg,walnuts,valid
+9,valid/walnuts/2.jpg,walnuts,valid
+9,valid/walnuts/3.jpg,walnuts,valid
+9,valid/walnuts/4.jpg,walnuts,valid
+9,valid/walnuts/5.jpg,walnuts,valid
